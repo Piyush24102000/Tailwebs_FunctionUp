@@ -1,0 +1,17 @@
+.trial{
+    margin-left: 40vw;
+}
+.addForm{
+    margin-left: 600px;
+}
+.addButton{
+    margin-top: 20px;
+}
+.card{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.wrapper{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+}
