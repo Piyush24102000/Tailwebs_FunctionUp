@@ -5,7 +5,7 @@ Two separate folders
 1) backend
 2) frontend
 
-# To start the server go in backend/src then type Nodemon index.js
-# To start the React Application go in frontend the type npm start
+# To start the server go in backend/src and type Nodemon index.js
+# To start the React Application go in frontend and type npm start
 
 ......Piyush Tale
